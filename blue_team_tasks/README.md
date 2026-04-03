@@ -13,9 +13,10 @@ This interactive GUI tool detects login attempts that occur between **00:00 and 
 - One-click clear/reset functionality
 
 **How to Run**
-
+```
+bash
 python time_based_alert_tool.py
-
+```
 
 ## Task 6: Session Tracking System
 

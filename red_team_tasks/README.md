@@ -16,11 +16,11 @@ A comprehensive security tool that analyzes session cookies for common vulnerabi
 - **Low** — Good configuration
 
 **CSV Format Example**
-csv
+```csv
 cookie_name,domain,path,secure,httponly,samesite,expires
 session_id,example.com,/,true,true,Lax,2026-12-31 23:59:59
 auth_token,example.com,/,false,false,None,2026-04-10 10:00:00
-
+```
 
 ## Custom Wordlist Generator (OSINT əsaslı)
 
